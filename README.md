@@ -1,18 +1,18 @@
-# Venovision-progress
+# Deviency Score
 <h1 align = "center">Description</h1>
 <hr />
 
 <p>
-Cardiovascular patients recovering from recent hospitalization are often unnecesarilly monitored for an extra 5 days after an operation, usually with highly invasive equipment. Our goal is to offer an non-inivasive alternative by monitoring variables of the juggular vein via an infrared camera and then extrapolating from the raw data the likihood that a patient will need intervention. If this is accurate, then receptive patients can leave the hospital earlier and be monitored remotely through a non-invasive, mounted thermal camera.
+A simple bot created with using Reddit's PRAW library that returns a table of a user's illicit engagements. It also provides a score that denotes how willing a user is to engage with unscroupulous content compared to a random sample of users.
 </p>
   
 <hr />
 <h1 align = "center">
-    TEAMS:
+    Project Structure:
   </h1>
  <ul>
   <li>
-    Machine Learning and Data Analysis
+    Deviency__Score: contains support functions for the 
   </li>
   <li>
     MatLab and Computer Vision
